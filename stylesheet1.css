@@ -1,0 +1,14 @@
+.
+#table1{
+    text-align:center;
+    color:white;
+    background-color:forestgreen;
+}
+section{
+    display:inline-flex;
+    flex-direction:column;  
+}
+table,tr,td{
+    border:0.5px solid black;
+    padding:unset;
+}
